@@ -1,0 +1,36 @@
+@book{DudaHart,
+	author = "R. O. Duda and P. E. Hart and D. G. Stork",
+	titl e ="Pattern Classification",
+	publisher = "Wiley",
+	year = "2000"
+}
+@book{shapiro01,
+	author = "Linda G. Shapiro and George C. Stockman",
+	titl e ="Computer Vision",
+	publisher = "Prentice Hall",
+	year = "2001"
+}
+@book{Forsyth02,
+	author = "David A. Forsyth and Jean Ponce",
+	titl e ="Computer Vision: A Modern Approach",
+	publisher = "Prentice Hall",
+	year = "2002"
+}
+@book{Hartley04,
+	author = "R. Hartley and A. Zisserman",
+	titl e ="Multiple View Geometry in Computer Vision",
+	publisher = "Cambridge University Press",
+	year = "2004"
+}
+@book{Parker96,
+	author = "J. R. Parker",
+	titl e ="Algorithms for Image Processing and Computer Vision",
+	publisher = "Wiley",
+	year = "1996"
+}
+@book{Trucco98,
+	author = "E. Trucco and A. Verri",
+	titl e ="Introductory Techniques for 3-D Computer Vision",
+	publisher = "Prentice Hall",
+	year = "1998"
+}

@@ -1,0 +1,8 @@
+0036451111; Prezime1, Ime1; 21; A
+0036451112; Prezime2, Ime2; 32; B
+0036451113; Prezime3, Ime3; 19; A
+0036451114; Prezime4, Ime4; 98; A
+0036451115; Prezime5, Ime5; 56; C
+0036451116; Prezime6, Ime6; 17; C
+0036451117; Prezime7, Ime7; 67; B
+
